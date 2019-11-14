@@ -1,5 +1,5 @@
 # pengajuan-keuangan
- Pengajuan keuangan yang sistematis namun mudah digunakan
+ Submission system that easy to use and usefull. InsyaAllah
 
 # User
 > admin
@@ -20,3 +20,6 @@ user : user3
 
 _All of them (kasir, user1, user2, user3)_
 Password : 000000
+
+# Upload
+> Upload file mysql before you run the code
