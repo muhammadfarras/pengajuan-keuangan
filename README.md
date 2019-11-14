@@ -12,6 +12,7 @@ pass : approver
 
 > Chashier
 user : kasir
+
 > User
 user : user1
 user : user2
