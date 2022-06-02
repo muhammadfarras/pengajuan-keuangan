@@ -42,7 +42,7 @@ logAdmin ($_COOKIE['no_id']);
       <h1 class="panel__headline"><i class="fa fa-user-plus" aria-hidden="true">Tambah Akun</i></h1>
       <div class="panel__block"></div>
        <?php
-        if ($_POST['daftar']=="Submit"){
+        if (isset($_POST['daftar'])){
             
             $nama = mysqli_real_escape_string ($koneksi,htmlentities ( strip_tags ( trim ( $_POST['nama']) ) ) );
             
